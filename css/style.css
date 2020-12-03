@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://st2.depositphotos.com/5750784/9046/v/950/depositphotos_90464648-stock-illustration-seamless-vector-pattern-light-pastel.jpg);
+
+}
+.heading{
+    margin-top: 35px;
+}
+.heading h3{
+    font-size: 30px;
+    margin: 10px 13px;
+    padding: 4px 5px;
+    font-family: 'Nerko One', cursive;
+}
+table tr td{
+    margin: 3px 2px;
+    padding: 5px 6px ;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Sansita Swashed', cursive;
+}
+table th{
+    background-color: #bbb;
+    font-family: 'Sansita Swashed', cursive;
+}
+table tr td:hover{
+    background-color: aqua;
+    cursor: pointer;
+    box-shadow: 3px 3px 2px 2px rgb(41, 61, 21);
+}
+.one{
+    background-color: red;
+}
+.two{
+    /* background-color:rgb(148, 50, 50); */
+}
+.ondate{
+    background-color:rgb(238, 12, 125);
+}
